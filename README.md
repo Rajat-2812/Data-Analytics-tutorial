@@ -62,10 +62,6 @@ A: This tutorial focuses on Python, but the concepts can be applied using other 
 
 Feel free to contribute to this tutorial by submitting issues, enhancements, or improvements. Please follow the contributing guidelines provided.
 
-## License
-
-This tutorial is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Happy learning! If you have any questions or feedback, don't hesitate to reach out.
